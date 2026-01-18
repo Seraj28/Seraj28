@@ -103,7 +103,7 @@ To secure a **Software Developer role** where I can:
 
 - 💼 LinkedIn: *(https://www.linkedin.com/in/md-s-14aa3127a/)*  
 - 🧑‍💻 GitHub: https://github.com/Seraj28
-- 📧 Email: *(seraj232855@gmail.com)*  
+- 📧 Email: *seraj232855@gmail.com*  
 
 ---
 
