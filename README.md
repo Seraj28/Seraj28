@@ -1,111 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Seraj
 
-# 👋 Hi, I'm Md Seraj  
-
-🚀 **MERN Stack Developer | Backend-Focused | Problem Solver**  
-🎓 Engineering Student (ECE) 
-📍 India | Open to Internship & Full-Time Opportunities  
+🚀 MERN Stack Developer | C++ DSA | Backend-Focused  
+📍 India | Open to Internship & Full-Time Roles  
+📧 seraj232855@gmail.com
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me
 
-I am a **self-driven MERN Stack Developer** with strong backend fundamentals and hands-on experience building **real-world, scalable web applications**.  
+Self-driven developer who believes in building from scratch and understanding deeply — not just following tutorials.
 
-I have worked extensively with **Node.js, Express.js, MongoDB**, and modern frontend tools like **React**. Alongside development, I actively practice **Data Structures & Algorithms in C++** to strengthen my problem-solving skills for product-based companies.  
+I build backend-heavy MERN applications and actively solve DSA problems in C++ to prepare for product-based companies.
 
-I believe in **building projects from scratch**, understanding concepts deeply, and writing clean, maintainable code rather than just following tutorials.
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Frontend  
-- HTML5, CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Tailwind CSS, Bootstrap  
-
-### ⚙️ Backend  
-- Node.js  
-- Express.js  
-- REST APIs  
-- JWT Authentication & Role-Based Access  
-
-### 🗄️ Database  
-- MongoDB  
-- Mongoose  
-- MongoDB Atlas  
-
-### 🧠 Programming & DSA  
-- C++  
-- Arrays, Strings, Linked List, Stack, Queue  
-- Trees, Graphs, Recursion, DP (Learning)  
-
-### 🧰 Tools & Platforms  
-- Git & GitHub  
-- Postman  
-- VS Code  
-- Linux (Basics)  
+Recently completed a **45-day straight DSA challenge** — 150+ problems, zero breaks.
 
 ---
 
-## 📂 Featured Projects  
+## 🛠️ Tech Stack
 
-### 🔹 Full Stack To-Do Application  
-- JWT Authentication (User & Admin roles)  
-- Secure REST APIs  
-- Pagination & Protected Routes  
-- MongoDB + Express Backend  
-
-### 🔹 E-Commerce Web App  
-- Product & User Management  
-- Cart & Order Flow  
-- Admin Authentication  
-
-### 🔹 Blog Application  
-- User & Admin Login  
-- CRUD Operations  
-- Role-Based Access Control  
-
-### 🔹 Frontend Clones  
-- Netflix Clone  
-- Amazon Clone  
-
-### 🔹 Mini Projects  
-- Tic-Tac-Toe  
-- Stone Paper Scissors  
-- Interactive Games using JavaScript  
-
-👉 **More projects available in my repositories**
+**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs, JWT Auth  
+**Database:** MongoDB, Mongoose, Atlas  
+**DSA:** C++ — Arrays, LL, Trees, BST, Graphs, Stack/Queue, Recursion  
+**Tools:** Git, GitHub, Postman, VS Code
 
 ---
 
-## 📈 What I’m Currently Working On  
+## 📂 Projects
 
-- Strengthening **DSA (150–200 high-impact problems)**  
-- Building **backend-heavy MERN projects**  
-- Preparing for **Software Engineer / Associate Developer roles**  
+**E-Commerce Application (Full Stack)**
+  - JWT Authentication & Role-Based Authorization
+  - Product, Cart & Order Management
+  - Admin Dashboard for Product Management
+  - REST APIs | MongoDB | Express | React | Node.js
+
+**Blog Application (Full Stack)**
+  - User Authentication & Authorization
+  - CRUD Operations for Blogs
+  - Admin Panel with Role-Based Access Control
+  - Responsive UI & REST APIs
+
+**To-Do Application (Full Stack)**
+  - Secure JWT Authentication
+  - Role-Based Access Control
+  - Pagination & CRUD Operations
+  - RESTful API Integration
+
+• Frontend Clones
+  - Netflix Clone
+  - Amazon Clone
+  - Built using React, HTML, CSS & JavaScript
+
+**Mini Projects**
+  - Tic-Tac-Toe
+  - Stone Paper Scissors
 
 ---
 
-## 🎯 Career Objective  
+## 📈 Currently
 
-To secure a **Software Developer role** where I can:  
-- Work on real production systems  
-- Grow as a backend engineer  
-- Contribute to impactful products  
-- Continuously learn and improve  
+- Revising DSA concepts + interview prep
+- Building stronger backend projects
+- Targeting Software Engineer / Associate Developer roles
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/md-s-14aa3127a/*  
-- 🧑‍💻 GitHub: https://github.com/Seraj28
-- 📧 Email: *seraj232855@gmail.com*  
-
----
-
-⭐ **If you like my work, feel free to star my repositories!**
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-s-14aa3127a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Seraj28)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:seraj232855@gmail.com)
